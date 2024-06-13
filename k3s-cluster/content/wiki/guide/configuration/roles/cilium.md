@@ -244,7 +244,7 @@ Sets the `infrastructure` [annotations](https://kubernetes.io/docs/concepts/over
 
 ###### `ui.replicas`
 
-- Default value: `integer`, `2`
+- Default value: `integer`, `1`
 
 ###### `ui.resources`
 
